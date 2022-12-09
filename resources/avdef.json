@@ -1,0 +1,6 @@
+{
+     "av_title" : "Windows Defender",
+     "description" : "Default Windows Anti-Malware solution",
+     "manufacturer" : "Microsoft",
+     "proc_name" : "MsMpEng.exe",
+     }
