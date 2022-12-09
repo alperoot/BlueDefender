@@ -1,0 +1,1 @@
+Get-SmbServerConfiguration | ConvertTo-Json
